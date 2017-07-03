@@ -1,0 +1,6 @@
+Introduction - About NLP, NER, Corpus
+Application of corpus -> building data which can be used later to tag menaingful information.
+Method of Corpus building -> Data collection, Manual tagging, generating corpus files, Redundancy handling, Corpus Algorithm testing 
+Accuracy -> ??
+Limitations and further enhancements -> 
+References
